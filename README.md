@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Suprith%20Shetty&fontSize=48&fontColor=ff1e1e&fontAlignY=50" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=Talk%20is%20cheap.&fontSize=20&fontColor=ff1e1e&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Suprith%20Shetty&fontSize=48&fontColor=ff1e1e&fontAlignY=38&desc=Talk%20is%20cheap.&descSize=20&descColor=ff1e1e&descAlignY=62" width="100%"/>
 
 </div>
 
@@ -10,9 +8,9 @@
 
 ## About Me
 
-I build systems that work.
+### I build systems that work.
 
-**AI | Machine Learning | Backend Development**
+### AI | Machine Learning | Backend Development
 
 <br/>
 
