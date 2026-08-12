@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Suprith%20Shetty&fontSize=48&fontColor=ff1e1e&fontAlignY=38&desc=Talk%20is%20cheap.&descSize=20&descColor=ff1e1e&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Suprith%20Shetty&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Talk%20is%20cheap.&descSize=20&descColor=b3b3b3&descAlignY=62" width="100%"/>
 
 </div>
 
@@ -34,6 +34,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-4B4B4B?style=for-the-badge&logo=serverfault&logoColor=white"/>
 
 ### Databases
 
