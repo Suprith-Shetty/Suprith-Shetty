@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=180&section=header&text=Suprith%20Shetty&fontSize=48&fontColor=ff1e1e&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Suprith%20Shetty&fontSize=48&fontColor=ff1e1e&fontAlignY=50" width="100%"/>
 
-**Talk is cheap.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=Talk%20is%20cheap.&fontSize=20&fontColor=ff1e1e&fontAlignY=55" width="100%"/>
 
 </div>
 
@@ -26,6 +26,8 @@ I build systems that work.
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 ### Backend
 
